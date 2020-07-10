@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi world 👋
 
 <!--
 **emmanuelurbina/emmanuelurbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on personal page and awesome personal projects
+- 🌱 I’m currently learning more interesting thigs of python, web development with flask and django.
