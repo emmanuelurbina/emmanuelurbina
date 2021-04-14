@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelurbina&show_icons=true&theme=cobalt)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelurbina&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
